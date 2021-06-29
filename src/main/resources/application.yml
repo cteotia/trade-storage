@@ -1,0 +1,6 @@
+trade:
+  expiry:
+    schedule: 0/30 * * * * *
+    
+server:
+  port: 9090
